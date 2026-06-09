@@ -18,7 +18,7 @@ export default function Home() {
           </div>
 
           {/* Content */}
-          <div className="flex flex-col gap-2.5 overflow-y-scroll p-3">
+          <div className="flex flex-col gap-2.5 overflow-y-scroll p-3 no-scrollbar">
             <div>card 1</div>
             <div>card 2</div>
             <div>card 3</div>
