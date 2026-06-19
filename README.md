@@ -33,15 +33,16 @@
 
 - ⚛️ **[Next.js](https://nextjs.org/)** — Full-stack React framework with App Router.
 - 🟦 **[TypeScript](https://www.typescriptlang.org/)** — Type safety across the entire codebase.
+- 🏝️ **[TanStack Query](https://tanstack.com/query)** — Async state management with caching.
+- 🎨 **[Tailwind CSS](https://tailwindcss.com/)** — Utility-first CSS framework.
+- 🧩 **[Radix UI](https://www.radix-ui.com/)** — Accessible, headless UI primitives.
 - 🔥 **[Hono](https://hono.dev/)** — Lightweight web framework for the API layer.
 - 🗃️ **[Drizzle ORM](https://orm.drizzle.team/)** — Lightweight, type-safe ORM for TypeScript.
 - 🐘 **[PostgreSQL](https://www.postgresql.org/)** — Reliable relational database.
+- 🐳 **[Docker](https://www.docker.com/)** — Containerized database for a consistent dev environment.
 - 🔐 **[Better Auth](https://better-auth.com/)** — Authentication for modern full-stack apps.
 - 🐙 **[GitHub OAuth](https://docs.github.com/en/apps/oauth-apps)** — Social login via GitHub.
-- 🏝️ **[TanStack Query](https://tanstack.com/query)** — Async state management with caching.
 - 💎 **[Zod](https://zod.dev/)** — Runtime schema validation with full type inference.
-- 🎨 **[Tailwind CSS](https://tailwindcss.com/)** — Utility-first CSS framework.
-- 🧩 **[Radix UI](https://www.radix-ui.com/)** — Accessible, headless UI primitives.
 - 📖 **[Scalar](https://scalar.com/)** — Beautiful interactive API documentation.
 - 🔍 **[Biome](https://biomejs.dev/)** — Fast, opinionated linter and formatter.
 
