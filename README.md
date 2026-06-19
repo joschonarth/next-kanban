@@ -19,6 +19,10 @@
 
 ---
 
+<img width="1907" height="933" alt="next-kanban" src="https://github.com/user-attachments/assets/40cb3eda-d6e6-4e5b-895b-33968f78065e" />
+
+---
+
 ## 📃 About
 
 **next-kanban** is a full-stack Kanban board application built with Next.js. Organize tasks across four columns — **Backlog**, **To Do**, **In Progress**, and **Done** — with support for liking tasks, leaving comments, and signing in with GitHub. The app features a clean UI with authentication, server-side rendering, and a type-safe API layer.
